@@ -31,6 +31,5 @@ python password_manager.py
 
 ## Author
 
-Prince singh
-
-internship id= CITS5535
+Alok
+internship id= CITS5381
